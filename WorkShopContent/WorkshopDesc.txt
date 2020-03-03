@@ -1,11 +1,14 @@
-[h1]What? [/h1]
--
-
-[h1]How? [/h1]
--
-
-[h1]Why? [/h1]
--
+[h1]Garden soil[/h1]
+- 100% fertility
+- 2 wood cost to build (Wooden floor is 3)
+- Can be built over all terrain that isn't water
+- 200 work to build (In between wood and stone)
+- Has all the base properties of 1.1 dirt soil (For balance and vanilla feel)
+- Has a slightly different texture to regular soil to be easily visible
+- Requires a neolithic 1800 cost research project to be completed first. (Under the Josh Mate Tab)
+- Same dirt, beauty and movement stats as regular dirt soil
+- Can be selected from the floors build menu after research is complete
 
 [h1]Notes: [/h1]
 - Supports game version 1.1
+- Supports Royalty DLC

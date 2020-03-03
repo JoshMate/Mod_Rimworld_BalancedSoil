@@ -2,9 +2,10 @@
 
 <Defs>
 
-  <TerrainDef>
+  <TerrainDef ParentName="NaturalTerrainBase">
     <defName>JM_Soil</defName>
     <label>garden soil</label>
+	<description>Man made soil, made by mixing rotting wood and natural earth to create fertile land anywhere.</description>
     <texturePath>Floors/JM_Soil</texturePath>
 	<designationCategory>Floors</designationCategory>
     <edgeType>FadeRough</edgeType>
@@ -14,7 +15,7 @@
     <statBases>
       <Beauty>-1</Beauty>
       <Cleanliness>-1</Cleanliness>
-	  <WorkToBuild>100</WorkToBuild>
+	  <WorkToBuild>200</WorkToBuild>
     </statBases>
 	<costList>
 			<WoodLog>2</WoodLog>
@@ -29,7 +30,6 @@
       <li>Heavy</li>
       <li>GrowSoil</li>
       <li>Diggable</li>
-      <li>SmoothableStone</li>
     </affordances>
     <generatedFilth>Filth_Dirt</generatedFilth>
 	<constructEffect>ConstructDirt</constructEffect>
