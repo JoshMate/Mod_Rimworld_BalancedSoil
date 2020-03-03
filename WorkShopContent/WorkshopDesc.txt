@@ -1,0 +1,11 @@
+[h1]What? [/h1]
+-
+
+[h1]How? [/h1]
+-
+
+[h1]Why? [/h1]
+-
+
+[h1]Notes: [/h1]
+- Supports game version 1.1

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ResearchProjectDef>
+		<defName>JM_Research_Soil</defName>
+		<label>Garden Soil</label>
+		<description>Learn various techniques that allow you to layer growable garden soil over any type of terrain.</description>
+		<baseCost>1800</baseCost>
+		<techLevel>Medieval</techLevel>
+		<tab>JM_Research_Tab</tab>
+		<researchViewX>0</researchViewX>
+		<researchViewY>0</researchViewY>
+	</ResearchProjectDef>
+
+</Defs>

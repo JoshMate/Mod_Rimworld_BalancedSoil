@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Balanced Soil</name>
+  <author>Josh Mate</author>
+  <packageId>JM.BalancedSoil</packageId>
+  <url></url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+  </supportedVersions>
+<description>
+Adds buildable soil in a balanced way.
+</description>
+</ModMetaData>
