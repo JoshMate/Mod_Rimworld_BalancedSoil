@@ -4,11 +4,28 @@
 	<ResearchProjectDef>
 		<defName>JM_Research_Soil</defName>
 		<label>Garden Soil</label>
-		<description>Learn how to create Garden soil which is a fertile growable floor that can be built anywhere!</description>
-		<baseCost>1800</baseCost>
+		<description>Learn how to create "Garden Soil" that can grow plants with 100% fetility and can be placed almsot anywhere!</description>
+		<baseCost>800</baseCost>
 		<techLevel>Neolithic</techLevel>
 		<tab>JM_Research_Tab</tab>
 		<researchViewX>0</researchViewX>
+		<researchViewY>0</researchViewY>
+	</ResearchProjectDef>
+
+	<ResearchProjectDef>
+		<defName>JM_Research_Soil_Better</defName>
+		<label>Hyper Soil</label>
+		<description>Learn how to create "Hyper Soil" that can grow plants with 150% fetility and can be placed almsot anywhere!</description>
+		<baseCost>3200</baseCost>
+		<techLevel>Industrial</techLevel>
+		<prerequisites>
+			<li>JM_Research_Soil</li>
+			<li>TreeSowing</li>
+			<li>Cocoa</li>
+			<li>Hydroponics</li>
+		</prerequisites>
+		<tab>JM_Research_Tab</tab>
+		<researchViewX>1</researchViewX>
 		<researchViewY>0</researchViewY>
 	</ResearchProjectDef>
 

@@ -1,11 +1,26 @@
+[h1]Adds two types of new floor:[/h1]
+
 [h1]Garden soil[/h1]
 - 100% fertility
-- 2 wood cost to build (Wooden floor is 3)
-- Can be built over all terrain that isn't water
+- No Material Cost
 - 200 work to build (In between wood and stone)
+- Can be built over all terrain that supports most normal buildings
 - Has all the base properties of 1.1 dirt soil (For balance and vanilla feel)
 - Has a slightly different texture to regular soil to be easily visible
 - Requires a neolithic 1800 cost research project to be completed first. (Under the Josh Mate Tab)
+- Same dirt, beauty and movement stats as regular dirt soil
+- Can be selected from the floors build menu after research is complete
+
+[h1]Garden soil[/h1]
+- 150% fertility
+- 4 wood cost to build (Wooden floor is 3)
+- 1 Chem Fuel to build (Wooden floor is 3)
+- 300 work to build (In between wood and stone)
+- Can be built over all terrain that supports most normal buildings
+- Has all the base properties of 1.1 dirt soil (For balance and vanilla feel)
+- Has a slightly different texture to regular soil to be easily visible
+- Requires a Industrial 3200 cost research project (Under the Josh Mate Tab)
+- Requires Hydroponic, tree sowing, cocao and Garden Soil to be researched first.
 - Same dirt, beauty and movement stats as regular dirt soil
 - Can be selected from the floors build menu after research is complete
 
