@@ -3,22 +3,22 @@
 [h1]Garden soil[/h1]
 - 100% fertility
 - No Material Cost
-- 200 work to build (In between wood and stone)
-- Can be built over all terrain that supports most normal buildings
+- 100 work to build (Same as wood flooring)
+- Can be built over any terrain apart from water, mud and marsh.
 - Has all the base properties of 1.1 dirt soil (For balance and vanilla feel)
 - Has a slightly different texture to regular soil to be easily visible
 - Requires a neolithic 1800 cost research project to be completed first. (Under the Josh Mate Tab)
 - Same dirt, beauty and movement stats as regular dirt soil
 - Can be selected from the floors build menu after research is complete
 
-[h1]Garden soil[/h1]
+[h1]Hyper soil[/h1]
 - 150% fertility
 - 4 wood cost to build (Wooden floor is 3)
-- 1 Chem Fuel to build (Wooden floor is 3)
-- 300 work to build (In between wood and stone)
-- Can be built over all terrain that supports most normal buildings
+- 1 Chem Fuel to build
+- 400 work to build (Half as slow as carpet or tiles)
+- Can be built over any terrain apart from water, mud and marsh.
 - Has all the base properties of 1.1 dirt soil (For balance and vanilla feel)
-- Has a slightly different texture to regular soil to be easily visible
+- Has a slightly different texture to regular soil and Garden Soil to be easily visible
 - Requires a Industrial 3200 cost research project (Under the Josh Mate Tab)
 - Requires Hydroponic, tree sowing, cocao and Garden Soil to be researched first.
 - Same dirt, beauty and movement stats as regular dirt soil

@@ -5,7 +5,7 @@
   <TerrainDef ParentName="NaturalTerrainBase">
     <defName>JM_Soil</defName>
     <label>garden soil</label>
-	<description>Fertile soil that can grow plants. Can be placed almsot anywhere!</description>
+	<description>100% Fertility soil that can built almost anywhere!</description>
     <texturePath>Floors/JM_Soil</texturePath>
 	<designationCategory>Floors</designationCategory>
     <edgeType>FadeRough</edgeType>
@@ -47,7 +47,7 @@
   <TerrainDef ParentName="NaturalTerrainBase">
     <defName>JM_Soil_Better</defName>
     <label>hyper soil</label>
-	<description>Hyper fertile soil that can grow plants. Can be placed almsot anywhere!</description>
+	<description>150% Fertility soil that can built almost anywhere!</description>
     <texturePath>Floors/JM_Soil_Better</texturePath>
 	<designationCategory>Floors</designationCategory>
     <edgeType>FadeRough</edgeType>
@@ -57,7 +57,7 @@
     <statBases>
       <Beauty>-1</Beauty>
       <Cleanliness>-1</Cleanliness>
-	  <WorkToBuild>300</WorkToBuild>
+	  <WorkToBuild>400</WorkToBuild>
     </statBases>
 	<costList>
 			<WoodLog>4</WoodLog>
