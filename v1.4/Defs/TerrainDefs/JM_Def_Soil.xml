@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+
+  <TerrainDef ParentName="NaturalTerrainBase">
+    <defName>JM_Soil</defName>
+    <label>garden soil</label>
+	<description>Garden soil with increased fertility, improving plant growth speed.</description>
+    <texturePath>Floors/JM_Soil_Better</texturePath>
+    <edgeType>FadeRough</edgeType>
+    <renderPrecedence>340</renderPrecedence>
+    <pathCost>2</pathCost>
+    <layerable>true</layerable>
+    <statBases>
+      <Beauty>-1</Beauty>
+      <Cleanliness>-1</Cleanliness>
+      <WorkToBuild>500</WorkToBuild>
+    </statBases>
+    <costList>
+      <WoodLog>2</WoodLog>
+    </costList>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <constructEffect>ConstructDirt</constructEffect>
+    <designationHotKey>Misc9</designationHotKey>
+    <researchPrerequisites>
+      <li>TreeSowing</li>
+    </researchPrerequisites>
+    <affordances>
+      <li>Light</li>
+      <li>Medium</li>
+      <li>Heavy</li>
+      <li>GrowSoil</li>
+      <li>Diggable</li>
+    </affordances>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <generatedFilth>Filth_Dirt</generatedFilth>
+    <fertility>1.2</fertility>
+    <takeFootprints>True</takeFootprints>
+    <tools>
+      <li>
+        <label>dirt</label>
+        <capacities>
+          <li>KickMaterialInEyes</li>
+        </capacities>
+        <hediff>DirtInEyes</hediff>
+        <cooldownTime>1.5</cooldownTime>
+      </li>
+    </tools>
+    <tags>
+      <li>Floor</li>
+    </tags>
+    <designationCategory>Floors</designationCategory>
+  </TerrainDef>
+
+</Defs>

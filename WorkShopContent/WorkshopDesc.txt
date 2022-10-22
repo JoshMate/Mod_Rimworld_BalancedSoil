@@ -1,29 +1,28 @@
-[h1]Adds two types of new floor:[/h1]
+[h3]Balanced Soil[/h3]
 
-[h1]Garden soil[/h1]
-- 100% fertility
-- No Material Cost
-- 100 work to build (Same as wood flooring)
-- Can be built over any terrain apart from water, mud and marsh.
-- Has all the base properties of 1.1 dirt soil (For balance and vanilla feel)
-- Has a slightly different texture to regular soil to be easily visible
-- Requires a neolithic 1800 cost research project to be completed first. (Under the Josh Mate Tab)
-- Same dirt, beauty and movement stats as regular dirt soil
-- Can be selected from the floors build menu after research is complete
+A Vanilla Friendly and Gameplay Balanced way of constructing soil flooring allowing you grow crops anywhere on the map.
 
-[h1]Hyper soil[/h1]
-- 150% fertility
-- 4 wood cost to build (Wooden floor is 3)
-- 1 Chem Fuel to build
-- 400 work to build (Half as slow as carpet or tiles)
-- Can be built over any terrain apart from water, mud and marsh.
-- Has all the base properties of 1.1 dirt soil (For balance and vanilla feel)
-- Has a slightly different texture to regular soil and Garden Soil to be easily visible
-- Requires a Industrial 3200 cost research project (Under the Josh Mate Tab)
-- Requires Hydroponic, tree sowing, cocao and Garden Soil to be researched first.
-- Same dirt, beauty and movement stats as regular dirt soil
-- Can be selected from the floors build menu after research is complete
+No more pesky gravel, sand and stone floor to block your perfectly laid out crop patches.
 
-[h1]Notes: [/h1]
-- Supports game version 1.1
-- Supports Royalty DLC
+[h3]Changes[/h3]
+- Adds a new floor type "Garden Soil"
+
+[h1]Balance[/h1]
+- Requires research: "Tree Sowing"
+- Has 120% fertility so Rich Soil (at 140%) still has a purpose .
+- Has 500 Work to Build (Same as Stone Tiles).
+- Costs 2 Wood to build.
+- You get back 0 resources when deconstructing.
+- Has all the effects of regular soil (Slowing down movement, Filth, -1 beauty).
+- Can be built over everything apart from Water and Mud (Use the Moisture Pump for those).
+- Will NOT bloat your Colonies wealth.
+
+[h1]Notes[/h1]
+- Highly compatible with other mods as it is just a new .xml Def File.
+- Safe to be added or removed from save games at anytime.
+
+[h1]DLC[/h1]
+- Full support for Vanilla.
+- Full support for Royalty.
+- Full support for Ideology.
+- Full support for Biotech
