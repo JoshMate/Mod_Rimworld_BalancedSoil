@@ -14,7 +14,7 @@
     <statBases>
       <Beauty>-1</Beauty>
       <Cleanliness>-1</Cleanliness>
-      <WorkToBuild>500</WorkToBuild>
+      <WorkToBuild>250</WorkToBuild>
     </statBases>
     <costList>
       <WoodLog>2</WoodLog>
@@ -47,7 +47,7 @@
       </li>
     </tools>
     <tags>
-      <li>Floor</li>
+      <li>Soil</li>
     </tags>
     <designationCategory>Floors</designationCategory>
   </TerrainDef>

@@ -1,6 +1,6 @@
 [h3]Balanced Soil[/h3]
 
-A Vanilla Friendly and Gameplay Balanced way of constructing soil flooring allowing you grow crops anywhere on the map.
+A Vanilla Friendly and Gameplay Balanced way of constructing soil flooring allowing you grow crops anywhere on the map without being too overpowerd, but still giving you the freedom to build nice farms.
 
 No more pesky gravel, sand and stone floor to block your perfectly laid out crop patches.
 
@@ -10,7 +10,7 @@ No more pesky gravel, sand and stone floor to block your perfectly laid out crop
 [h1]Balance[/h1]
 - Requires research: "Tree Sowing"
 - Has 120% fertility so Rich Soil (at 140%) still has a purpose .
-- Has 500 Work to Build (Same as Stone Tiles).
+- Has 250 Work to Build (Same as Paved Tiles).
 - Costs 2 Wood to build.
 - You get back 0 resources when deconstructing.
 - Has all the effects of regular soil (Slowing down movement, Filth, -1 beauty).
@@ -22,7 +22,11 @@ No more pesky gravel, sand and stone floor to block your perfectly laid out crop
 - Safe to be added or removed from save games at anytime.
 
 [h1]DLC[/h1]
-- Full support for Vanilla.
-- Full support for Royalty.
-- Full support for Ideology.
-- Full support for Biotech
+This mod checks what DLCs you have and only changes their content if you have that DLC so you can have none or any combination of DLC Installed.
+
+- Supports 1.6
+- Supports Royalty
+- Supports Ideology
+- Supports Biotech
+- Supports Anomaly
+- Supports Odyssey
